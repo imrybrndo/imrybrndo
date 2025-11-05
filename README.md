@@ -1,5 +1,4 @@
-# 💫 About Me:
-🚀 Hey there, I’m a Software Engineer<br><br>💻 I craft ideas into code — turning complex problems into clean, scalable solutions.<br>🌐 Passionate about building web apps, backend systems, and diving deep into blockchain tech.<br>Tech Arsenal:<br>⚡ JavaScript & TypeScript — my go-to for building dynamic apps<br>🐍 Python — data, automation, and AI playground<br>🐘 PHP — reliable backend wizardry<br>🦀 Rust — fearless performance & safety<br>🔗 Solidity — smart contract crafting on the blockchain<br>I love exploring new technologies, experimenting with cutting-edge stacks, and building things that matter. Always learning, always shipping.
+Hey there, I’m a Software Engineer<br><br>💻 I craft ideas into code — turning complex problems into clean, scalable solutions.<br>🌐 Passionate about building web apps, backend systems, and diving deep into blockchain tech.<br>Tech Arsenal:<br>⚡ JavaScript & TypeScript — my go-to for building dynamic apps<br>🐍 Python — data, automation, and AI playground<br>🐘 PHP — reliable backend wizardry<br>🦀 Rust — fearless performance & safety<br>🔗 Solidity — smart contract crafting on the blockchain<br>I love exploring new technologies, experimenting with cutting-edge stacks, and building things that matter. Always learning, always shipping.
 
 
 ## 🌐 Socials:
